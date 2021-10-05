@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaehun Jung
+- 👋 Hi, I’m Jae-hun Jung
 - 🏫 I'm student of Division of Computer Science in HY-ERICA Univ. 
 - 👀 I’m interested in programming something with Python, C, Java, etc...
 - 🌱 I’m currently learning C and Java.
